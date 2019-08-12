@@ -15,7 +15,7 @@ public class LauncherAkka {
         JobStart job = new JobStart();
         job.start = 0;
         job.end = 1_000_000;
-        job.op = 1_000;
+        job.op = 1000_000;
 
         ref.tell(job, null);
     }

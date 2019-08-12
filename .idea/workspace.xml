@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b54d8f9d-3552-4d15-9a54-d98ce9f272bc" name="Default Changelist" comment="" />
+    <list default="true" id="b54d8f9d-3552-4d15-9a54-d98ce9f272bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/Job.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/JobActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/JobActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/LauncherAkka.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/LauncherAkka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/WorkingActor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/wdeath/akka/test/WorkingActor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/JobActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/JobActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/LauncherAkka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/LauncherAkka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/WorkingActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdeath/akka/test/WorkingActor.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +38,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PJIYBmKoXhBuxWynr81exwU3lV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -71,11 +94,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565585817658</updated>
-      <workItem from="1565585820844" duration="3950000" />
+      <workItem from="1565585820844" duration="10028000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
